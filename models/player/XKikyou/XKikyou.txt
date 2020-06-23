@@ -1,0 +1,12 @@
+XDM Kikyou v1.8d
+
+Reference mesh converted from PS2 by Trishty
+Player model made by xawari
+Textures converted and repainted by xawari
+Animations taken from Cardcaptor Sakura 1.03 model by OmegaLE
+
+For X-Half-Life: Deathmatch 3.0.x.x
+Please do not redistribute separately.
+
+14 skins included
+1 LOD
