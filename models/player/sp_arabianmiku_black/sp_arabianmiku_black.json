@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "1", "seq": "0", "file": "player/spess/SP_ArabianMiku/nokia.wav"}, {"frame": "2", "seq": "187", "file": "player/spess/SP_ArabianMiku/tututu.wav"}], "tri_count": "18740", "hash": "cb3d291a31a8ab013961244fa7a5a76e"}
+{"events": [{"file": "player/spess/SP_ArabianMiku/nokia.wav", "frame": "1", "seq": "0"}, {"file": "player/spess/SP_ArabianMiku/tututu.wav", "frame": "2", "seq": "187"}], "tri_count": "18740", "hash": "cb3d291a31a8ab013961244fa7a5a76e", "seq_groups": 1}
