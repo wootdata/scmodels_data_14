@@ -1,1 +1,49 @@
-{"seq_groups": 1, "hash": "cf3f75cb2511fa528337400887e9c730", "tri_count": "420"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "err0r",
+					"polys": 420,
+					"verts": 202
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "cf3f75cb2511fa528337400887e9c730",
+	"name": "sc2player.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "look_idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "omg.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}
