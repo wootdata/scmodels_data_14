@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "body1",
+					"name": "touhou_daiyousei_body1",
 					"polys": 2628,
 					"verts": 1409
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "body2",
+					"name": "touhou_daiyousei_body2",
 					"polys": 3302,
 					"verts": 1723
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "a1",
+					"name": "touhou_daiyousei_a1",
 					"polys": 1028,
 					"verts": 670
 				}
@@ -55,9 +55,9 @@
 		{
 			"models": [
 				{
-					"name": "a1_ct",
+					"name": "touhou_daiyousei_a1_ct",
 					"polys": 2604,
-					"verts": 1324
+					"verts": 1325
 				}
 			],
 			"name": "body"
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "a2",
+					"name": "touhou_daiyousei_a2",
 					"polys": 380,
 					"verts": 248
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "a2_ct",
+					"name": "touhou_daiyousei_a2_ct",
 					"polys": 984,
 					"verts": 493
 				}
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "a3",
+					"name": "touhou_daiyousei_a3",
 					"polys": 584,
 					"verts": 390
 				}
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "a3_ct",
+					"name": "touhou_daiyousei_a3_ct",
 					"polys": 1552,
 					"verts": 773
 				}
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "a4",
+					"name": "touhou_daiyousei_a4",
 					"polys": 356,
 					"verts": 276
 				}
@@ -115,7 +115,7 @@
 		{
 			"models": [
 				{
-					"name": "a4_ct",
+					"name": "touhou_daiyousei_a4_ct",
 					"polys": 356,
 					"verts": 276
 				}
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "a5",
+					"name": "touhou_daiyousei_a5",
 					"polys": 411,
 					"verts": 321
 				}
@@ -135,7 +135,7 @@
 		{
 			"models": [
 				{
-					"name": "a5_ct",
+					"name": "touhou_daiyousei_a5_ct",
 					"polys": 1036,
 					"verts": 534
 				}
@@ -145,9 +145,9 @@
 		{
 			"models": [
 				{
-					"name": "a6",
+					"name": "touhou_daiyousei_a6",
 					"polys": 674,
-					"verts": 503
+					"verts": 504
 				}
 			],
 			"name": "body"
@@ -155,9 +155,9 @@
 		{
 			"models": [
 				{
-					"name": "a6_ct",
+					"name": "touhou_daiyousei_a6_ct",
 					"polys": 1628,
-					"verts": 824
+					"verts": 823
 				}
 			],
 			"name": "body"
@@ -165,9 +165,9 @@
 		{
 			"models": [
 				{
-					"name": "head",
+					"name": "touhou_daiyousei_head",
 					"polys": 2906,
-					"verts": 1722
+					"verts": 1718
 				}
 			],
 			"name": "body"
@@ -175,9 +175,9 @@
 		{
 			"models": [
 				{
-					"name": "leg",
-					"polys": 3257,
-					"verts": 1654
+					"name": "touhou_daiyousei_leg",
+					"polys": 2504,
+					"verts": 1276
 				}
 			],
 			"name": "body"
@@ -185,9 +185,9 @@
 		{
 			"models": [
 				{
-					"name": "wing",
+					"name": "touhou_daiyousei_wing",
 					"polys": 1658,
-					"verts": 862
+					"verts": 859
 				}
 			],
 			"name": "body"
@@ -195,9 +195,9 @@
 		{
 			"models": [
 				{
-					"name": "dress0",
+					"name": "touhou_daiyousei_dress0",
 					"polys": 1353,
-					"verts": 734
+					"verts": 730
 				}
 			],
 			"name": "body"
@@ -205,7 +205,7 @@
 		{
 			"models": [
 				{
-					"name": "dress1",
+					"name": "touhou_daiyousei_dress1",
 					"polys": 2964,
 					"verts": 1525
 				}
@@ -356,14 +356,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -481,8 +481,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "005dafcd30428ea1c53ff482fd3d54ea",
-	"name": "touhou_daiyousei.mdl",
+	"md5": "caaa7ad46f8652183306c48746384b3a",
+	"name": "daiyousei.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1441,7 +1441,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1923040,
+	"size": 1922376,
 	"skeleton": [
 		{
 			"name": "Bip01",
