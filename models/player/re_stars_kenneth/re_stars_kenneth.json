@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "3f5a5419f313eb3bb9cf0f9e981b9586",
-	"name": "RE_STARS_Kenneth.mdl",
+	"md5": "adf9f7ae1c7ec5874929d6e51bcf39f8",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeP,",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1189928,
+	"size": 1190992,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1324,9 +1324,9 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 254,
+			"height": 256,
 			"name": "johnsonface.bmp",
-			"width": 252
+			"width": 256
 		}
 	],
 	"version": 10
