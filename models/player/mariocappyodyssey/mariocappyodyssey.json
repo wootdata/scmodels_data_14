@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d50bf1cd15cf456e28fd12ec6ea3d073",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SuperMarioSkinPack\\MarioCappyOdyssey\\MarioCappyOdy",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f4fda9aeaf30d1f187e22a2eb57124d6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_badcop_armor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

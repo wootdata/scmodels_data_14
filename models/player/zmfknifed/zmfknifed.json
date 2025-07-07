@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "26979d79b9be98caeabf38ef773b306f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZMFknifed.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

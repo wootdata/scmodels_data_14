@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1122007850,
 	"events": [],
 	"id": 1414743113,
 	"md5": "cf3f75cb2511fa528337400887e9c730",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc2player.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

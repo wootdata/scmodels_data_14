@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4397f42ea5a1dcb90be666e9f7d045f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../nympho/nympho.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

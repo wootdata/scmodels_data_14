@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1729211610,
 	"events": [
@@ -255,7 +256,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd6435b78f4732f668a1ce6f80684643",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "superbigote.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

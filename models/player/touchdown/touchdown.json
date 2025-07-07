@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96819c0283a7f9fa5e88b200a28a3a10",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touchdown.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

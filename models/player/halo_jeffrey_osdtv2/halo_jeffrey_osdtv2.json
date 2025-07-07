@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5cdba619b15fbba41f0f5b9bcb17b2b4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Halo_jeffrey_OSDTv2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

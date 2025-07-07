@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -768,7 +769,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7fd9bd58a08abcfae42cfd8d8002a2e1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GFL_UMP9-c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

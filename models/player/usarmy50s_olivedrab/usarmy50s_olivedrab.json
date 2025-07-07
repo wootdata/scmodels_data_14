@@ -33,6 +33,7 @@
 			"name": "hpilot"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dcfa6d17887cc30eb7b42932f761b34d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hpilot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6b197a75a89257bf79325ace058a224b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sexy.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

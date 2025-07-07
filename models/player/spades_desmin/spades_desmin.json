@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dafc81fc44d1a42a93ad3ab3ed82d5fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SPADES_Desmin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

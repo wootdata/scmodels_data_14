@@ -28,6 +28,7 @@
 			"name": "RED"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef05673b975220225b8d8d5d11c0cf3f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "VOCALOID_Miku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

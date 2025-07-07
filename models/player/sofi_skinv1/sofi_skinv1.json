@@ -32,6 +32,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -400,7 +401,11 @@
 	],
 	"id": 1414743113,
 	"md5": "27949e45bf5ebb2a6a29c11bf0354643",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\Sofi_Skin\\Sofi_Skin.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

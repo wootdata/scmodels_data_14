@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4efc0e9f41ab541b780d0b6ce6b743eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Anti-Claws.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

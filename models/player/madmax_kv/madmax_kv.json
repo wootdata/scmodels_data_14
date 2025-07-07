@@ -48,6 +48,7 @@
 			"name": "armor"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e1d1e1c043fa53c6bfad0b58273095a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "madmax.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

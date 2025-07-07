@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b76de636863ac644388d2b9db67b1739",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Mohn's Stuff\\halflife sdk\\clean\\onna\\onna.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

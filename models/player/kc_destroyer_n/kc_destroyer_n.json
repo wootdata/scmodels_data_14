@@ -188,6 +188,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -522,7 +523,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da158f9b102c85e899bf1424651f4188",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_Destroyer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

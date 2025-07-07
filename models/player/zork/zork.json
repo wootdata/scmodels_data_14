@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 28,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e864c560185fd5459509a4462e871f8b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zork.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

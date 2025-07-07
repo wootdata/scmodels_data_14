@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ada794f786ff0adaa69a1e2fc37f9455",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pilot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -223,6 +223,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -760,7 +761,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3e0cd308b96e8ae6283826e6dfa9e3cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_lumine_ld.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

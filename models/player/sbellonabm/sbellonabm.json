@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "16bee33b296aaab807a1b0c59b6395b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Bellona.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

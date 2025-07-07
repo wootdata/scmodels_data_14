@@ -203,6 +203,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -810,7 +811,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bbbba8e1591a6603c9f88d913a7aa72c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AG_Osiris_C.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1121212768,
 	"events": [],
 	"id": 1414743113,
 	"md5": "1a3847902bb39007e08705bc95b3e861",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "worntruck.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

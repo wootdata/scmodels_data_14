@@ -93,6 +93,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -371,7 +372,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb3d3303466f3720f8656430b2097a16",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "JJ_Jotaro.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

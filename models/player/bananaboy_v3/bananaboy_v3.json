@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3aa1c9e5af0a3a09f966dd5df21a16de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Documents and Settings\\Mathias dman\\Skrivbord\\bananaboy\\bana5",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

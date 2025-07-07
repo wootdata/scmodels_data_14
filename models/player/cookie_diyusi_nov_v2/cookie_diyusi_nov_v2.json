@@ -233,6 +233,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -513,7 +514,11 @@
 	],
 	"id": 1414743113,
 	"md5": "91904f47a805c3e257109e2fdf4d9c24",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "Cookie_Diyusi_No_Vest.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

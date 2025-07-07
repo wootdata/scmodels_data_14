@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 3,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b2caddd7d0192ca4ba8142d898fc658e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Brown_AmongUs_Crewmate.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

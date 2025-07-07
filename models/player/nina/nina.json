@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 20,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0faa95698ab9fbb7967b9d3a9cc95b46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

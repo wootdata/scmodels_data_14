@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -483,7 +484,11 @@
 	],
 	"id": 1414743113,
 	"md5": "caaa7ad46f8652183306c48746384b3a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "daiyousei.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
