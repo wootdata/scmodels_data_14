@@ -316,6 +316,7 @@
 	"md5": "fde33c8df325c9ec2ddcd984ca96e9c1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "jump.mdl",
 	"preview": true,
 	"readme": false,
