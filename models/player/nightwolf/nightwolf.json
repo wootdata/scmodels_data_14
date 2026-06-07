@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185456916,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "afee7220fd97e6b55b62d4c68590324d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\WINDOWS\\Desktop\\wolf\\wolf.mdl",
 	"preview": true,
 	"readme": false,

@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 960322614,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "b76de636863ac644388d2b9db67b1739",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Mohn's Stuff\\halflife sdk\\clean\\onna\\onna.mdl",
 	"preview": true,
 	"readme": false,

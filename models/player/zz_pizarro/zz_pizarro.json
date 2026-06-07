@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092281,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "e67567957898d423e160ead788d82ec4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\5. peruano_piza",
 	"preview": true,
 	"readme": false,

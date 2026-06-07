@@ -1,0 +1,631 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "suit_P1",
+					"polys": 3000,
+					"verts": 1742
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P2",
+					"polys": 3000,
+					"verts": 1763
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P3",
+					"polys": 3000,
+					"verts": 1726
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P4",
+					"polys": 3000,
+					"verts": 1810
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P5",
+					"polys": 3000,
+					"verts": 1779
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P6",
+					"polys": 3000,
+					"verts": 1836
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P7",
+					"polys": 3000,
+					"verts": 1812
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P8",
+					"polys": 3000,
+					"verts": 1780
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_P9",
+					"polys": 2058,
+					"verts": 1318
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Suit_Cover",
+					"polys": 810,
+					"verts": 220
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "HoseA",
+					"polys": 3651,
+					"verts": 1482
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "HoseB",
+					"polys": 3754,
+					"verts": 1560
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Gloves_1",
+					"polys": 1417,
+					"verts": 731
+				}, 
+				{
+					"name": "Gloves_2",
+					"polys": 3740,
+					"verts": 2042
+				}, 
+				{
+					"name": "Gloves_3",
+					"polys": 1983,
+					"verts": 1030
+				}, 
+				{
+					"name": "Gloves_4",
+					"polys": 1417,
+					"verts": 731
+				}
+			],
+			"name": "Gloves"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Boots",
+					"polys": 1362,
+					"verts": 711
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Soles",
+					"polys": 240,
+					"verts": 124
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Mask",
+					"polys": 2753,
+					"verts": 1515
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Cover",
+					"polys": 1644,
+					"verts": 434
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Edges",
+					"polys": 2343,
+					"verts": 1466
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Filters",
+					"polys": 1111,
+					"verts": 599
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Fittings",
+					"polys": 1286,
+					"verts": 693
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Mask_Glasses",
+					"polys": 1004,
+					"verts": 506
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "A-Sync",
+					"polys": 2048,
+					"verts": 1089
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Glass",
+					"polys": 580,
+					"verts": 292
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"colorable": false,
+	"controllers": [
+		{
+			"bone": 5,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 16
+		}, 
+		{
+			"bone": 5,
+			"end": 10.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -10.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 5,
+			"end": 5.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -5.000000,
+			"type": 32
+		}
+	],
+	"date": 1778288670,
+	"events": [
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "43b1b41268e05e4d9a615588c81708b5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
+	"name": "hazmat.mdl",
+	"preview": false,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 5.000000,
+			"frames": 24,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 24,
+			"name": "idle"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 24,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "run2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 37,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 37,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 81,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "jump"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 24,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 37,
+			"name": "swim"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 37,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 1,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 1,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 2,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "gutshot"
+		}
+	],
+	"size": 4080896,
+	"skeleton": [
+		{
+			"name": "mixamorig:Hips",
+			"parent": -1
+		}, 
+		{
+			"name": "mixamorig:Spine",
+			"parent": 0
+		}, 
+		{
+			"name": "mixamorig:Spine1",
+			"parent": 1
+		}, 
+		{
+			"name": "mixamorig:Spine2",
+			"parent": 2
+		}, 
+		{
+			"name": "mixamorig:Neck",
+			"parent": 3
+		}, 
+		{
+			"name": "mixamorig:Head",
+			"parent": 4
+		}, 
+		{
+			"name": "mixamorig:RightShoulder",
+			"parent": 3
+		}, 
+		{
+			"name": "mixamorig:RightArm",
+			"parent": 6
+		}, 
+		{
+			"name": "mixamorig:RightForeArm",
+			"parent": 7
+		}, 
+		{
+			"name": "mixamorig:RightHand",
+			"parent": 8
+		}, 
+		{
+			"name": "mixamorig:LeftUpLeg",
+			"parent": 0
+		}, 
+		{
+			"name": "mixamorig:RightUpLeg",
+			"parent": 0
+		}, 
+		{
+			"name": "mixamorig:LeftLeg",
+			"parent": 10
+		}, 
+		{
+			"name": "mixamorig:RightLeg",
+			"parent": 11
+		}, 
+		{
+			"name": "mixamorig:LeftShoulder",
+			"parent": 3
+		}, 
+		{
+			"name": "mixamorig:LeftArm",
+			"parent": 14
+		}, 
+		{
+			"name": "mixamorig:LeftForeArm",
+			"parent": 15
+		}, 
+		{
+			"name": "mixamorig:LeftHand",
+			"parent": 16
+		}, 
+		{
+			"name": "mixamorig:LeftFoot",
+			"parent": 12
+		}, 
+		{
+			"name": "mixamorig:RightFoot",
+			"parent": 13
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 528,
+			"name": "Suit.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "black.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 464,
+			"name": "Hoses.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 368,
+			"name": "Gloves.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "chrome_metal.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 552,
+			"name": "almond_water.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "handle.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 552,
+			"name": "suitcase_leather.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 396,
+			"name": "Boots.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Soles.bmp",
+			"width": 552
+		}, 
+		{
+			"flags": 0,
+			"height": 552,
+			"name": "Mask.bmp",
+			"width": 488
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Cover.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Edges.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 276,
+			"name": "Filters.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Fitting.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "Chrome_Glass_Mask.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 64,
+			"height": 512,
+			"name": "A-Sync.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 35,
+			"height": 64,
+			"name": "chrome_glass.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

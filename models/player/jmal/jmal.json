@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1609572702,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "ab4423ebbc7c02693dc2e4cc2e05a8c6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Scream/Scream.mdl",
 	"preview": false,
 	"readme": false,
